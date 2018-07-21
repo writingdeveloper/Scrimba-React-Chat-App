@@ -1,5 +1,5 @@
 {
-  "name": "cVJ7bcp",
+  "name": "reactchat",
   "dependencies": {
     "react": "16.0.0",
     "react-dom": "16.0.0",
@@ -15,5 +15,18 @@
   "scripts": {
     "build": "webpack",
     "watch": "webpack -w"
-  }
+  },
+  "description": "This repository is a code from the 'Build a chat app with React.js and Chatkit' class provided by Scrimba.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangumee/React-Chat-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sangumee/React-Chat-App/issues"
+  },
+  "homepage": "https://github.com/sangumee/React-Chat-App#readme"
 }
