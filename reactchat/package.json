@@ -1,8 +1,11 @@
 {
-  "name": "c6bwzU7",
+  "name": "reactchat",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
-    "react": "16.0.0",
-    "react-dom": "16.0.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "1.1.4",
     "@pusher/chatkit": "0.7.12"
   },
   "devDependencies": {
@@ -13,7 +16,10 @@
     "babel-preset-react": "*"
   },
   "scripts": {
+    "start": "react-scripts start",
     "build": "webpack",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
     "watch": "webpack -w"
   }
 }
