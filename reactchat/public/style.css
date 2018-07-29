@@ -58,7 +58,7 @@ html, body {
     height: 100%;
 }
 
-.rooms-list > ul {
+.rooms-list ul {
     list-style-type: none;    
     padding: 0;
     overflow: scoll;
@@ -68,7 +68,7 @@ html, body {
     margin: 10px 0;
 }
 
-.rooms-list > h3 {
+.rooms-list h3 {
     margin: 5px 0;
     color: var(--secondary-color);
 }
