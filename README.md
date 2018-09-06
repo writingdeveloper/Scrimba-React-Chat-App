@@ -1,4 +1,4 @@
-# Scrimba-React-Chat-App
+# Scrimba-React-Chat-App ![](https://img.shields.io/badge/Code%20Statue-Close-red.svg)
  This repository is a code from the 'Build a chat app with React.js and Chatkit' class provided by Scrimba.  
  You can check the course with this [Link](https://scrimba.com/). There are many fantastic courses and it's normally free.
   
