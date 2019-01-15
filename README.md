@@ -1,4 +1,4 @@
-# Scrimba-React-Chat-App:octocat: ![](https://img.shields.io/badge/Code%20Statue-Close-red.svg)
+# Scrimba-React-Chat-App ![](https://img.shields.io/badge/Code%20Statue-Close-red.svg)
  This repository is a code from the 'Build a chat app with React.js and Chatkit' class provided by Scrimba.  
  You can check the course with this [Link](https://scrimba.com/). There are many fantastic courses and it's normally free.
   
@@ -9,7 +9,7 @@ This project is dynamic web project, so I use [Heroku](https://dashboard.heroku.
 
 # How to use this Program
 
-You can access with this [Link](https://sangumee.herokuapp.com/). You can make the room and chat someone.
+You can access with this [Link](https://sangumee.herokuapp.com/). You can make the room and chat someone. :octocat:
 
 # Contact
 If you have some questions or issues about this repository please contact me with the [Issue](https://github.com/sangumee/React-Chat-App/issues) section.
