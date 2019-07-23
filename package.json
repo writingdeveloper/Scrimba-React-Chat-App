@@ -6,10 +6,11 @@
     "node": "8.10.0"
   },
   "dependencies": {
+    "@pusher/chatkit": "0.7.12",
+    "mem": "^5.1.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-scripts": "1.1.4",
-    "@pusher/chatkit": "0.7.12"
+    "react-scripts": "1.1.4"
   },
   "devDependencies": {
     "webpack": "^2.0",
