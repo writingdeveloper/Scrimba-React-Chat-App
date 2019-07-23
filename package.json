@@ -7,10 +7,14 @@
   },
   "dependencies": {
     "@pusher/chatkit": "0.7.12",
+    "braces": "^3.0.2",
+    "eslint": "^6.1.0",
+    "js-yaml": "^3.13.1",
     "mem": "^5.1.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "webpack-dev-server": "^3.7.2"
   },
   "devDependencies": {
     "webpack": "^2.0",
